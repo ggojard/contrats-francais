@@ -1,17 +1,14 @@
 # Contrat de développement d’application web
 
-{{ client.description }},
-est « le Client », cité dans les _Conditions générales de vente_ et ce présent contrat.
+{{ client.description }}, est « le Client », cité dans les _Conditions générales de vente_ et ce présent contrat.
 
 ## Choix de la méthode de travail
 
-{{ company.name }} et le Client vont travailler sur des développements itératifs
-(méthode agile).
+{{ company.name }} et le Client vont travailler sur des développements itératifs (méthode agile).
 
 ## Propriété intellectuelle
 
-{{ company.name }} autorise le Client à consentir des sous-licences sur les
-développements spécifiques.
+{{ company.name }} cède au Client, à titre exclusif, tous les droits de propriété industrielle et/ou intellectuelle qu’il peut détenir sur les Livrables, à savoir tous droits de propriété industrielle, droits d’auteur, droits sur les développements spécifiques, droits des producteurs de bases de données, et tous autres droits de propriété intellectuelle.
 
 ## Prix - Paiement
 
@@ -19,10 +16,19 @@ Le taux horaire de {{ company.name }} s'élève à {{ company.hourly_rate }} {{ 
 
 ## Conditions spécifiques
 
+### Obligations de {{ company.name }}
+
+{{ company.name }} ne pourra pas sous-traiter tout ou partie de la prestation.
+
+### Garanties de {{ company.name }}
+
+{{ company.name }} garantit que tout Livrable ou document transmis sur support électronique dans le cadre de l’exécution du contrat est indemne de tout virus connu à sa date de transmission.
+
 ### Liberté du Client relative aux Evolutions ou la maintenance
 
-Le Client conserve la liberté de confier les Evolutions ou la maintenance du
-Livrable au prestataire de son choix.
+Le Client conserve la liberté de confier les Evolutions ou la maintenance du Livrable au prestataire de son choix.
+
+Dès lors que {{ company.name }} aurait connaissance d’un dommage, préjudice ou cas de force majeur, {{ company.name }} s’engage à prévenir son Client dans les plus brefs délais. Dans ces conditions, le Client se réserve le droit de mettre fin au contrat conformément à l’article 15 des _Conditions générales de vente_ .
 
 {{ cp.addons }}
 

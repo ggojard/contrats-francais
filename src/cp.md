@@ -1,6 +1,6 @@
 # Contrat de développement d’application web
 
-{{ client.description }}, est « le Client », cité dans les _Conditions générales de vente_ et ce présent contrat.
+{{ client.description }}, est « le Client », cité dans les _Conditions générales de vente_ et ce présent contrat.  Les présentes stipulations constituent les Conditions particulières du contrat de développement conclu entre les parties, et noté en Article 1 des Conditions générales de vente.
 
 ## Choix de la méthode de travail
 
@@ -8,7 +8,9 @@
 
 ## Propriété intellectuelle
 
-{{ company.name }} cède au Client, à titre exclusif, tous les droits de propriété industrielle et/ou intellectuelle qu’il peut détenir sur les Livrables, à savoir tous droits de propriété industrielle, droits d’auteur, droits sur les développements spécifiques, droits des producteurs de bases de données, et tous autres droits de propriété intellectuelle.
+{{ company.name }} autorise le Client à consentir des sous-licences sur les développements spécifiques.
+
+{{ company.name }} cède au Client, à titre exclusif, tous les droits de propriété industrielle et/ou intellectuelle qu’il peut détenir sur les Livrables, à savoir tous droits de propriété industrielle, droits d’auteur, droits sur les développements spécifiques, droits des producteurs de bases de données, et tous autres droits de propriété intellectuelle. La présente cession de droits est consentie pour le monde entier, et pour toute la durée légale de protection des droits de propriété intellectuelle et industrielle. Les parties sont convenues que le prix de la cession est compris de façon forfaitaire et définitive dans la rémunération perçue par {{ company.name }} au titre des prestations décrites, et que {{ company.name }} ne pourra réclamer aucune somme complémentaire à quel que titre que ce soit
 
 ## Prix - Paiement
 
@@ -42,11 +44,8 @@ respecter cette obligation par tous ses mandataires sociaux, personnels,
 sous-traitants et tiers contractants.
 
 La présente obligation de confidentialité prend effet à compter de la date de
-l’acceptation des présentes Conditions générales par le Client. Elle est
+l’acceptation des présentes stipulations par le Client. Elle est
 valable pour une durée de 10 ans.
-
-Les présentes stipulations constituent les Conditions particulières du contrat
-de développement conclu entre les Parties.
 
 En cochant la ou les case(s) ci-contre, le Client reconnaît avoir lu et accepté :
 
